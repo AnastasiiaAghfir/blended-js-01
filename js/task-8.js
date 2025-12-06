@@ -28,3 +28,5 @@ function min(a, b) {
      }
 }
 console.log(min(15, 9));
+
+
